@@ -1,0 +1,10 @@
+export 'package:seccion6_componentes_flutter/screens/alert_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/animated_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/avatar_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/cards_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/home_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/input_form_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/listview_builder_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/listview1_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/listview2_screen.dart';
+export 'package:seccion6_componentes_flutter/screens/slider_screen.dart';
