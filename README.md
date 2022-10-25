@@ -1,16 +1,5 @@
-# seccion6_componentes_flutter
+Componentes en Flutter
 
-A new Flutter project.
+Esta aplicacion implementa varios componentes de Flutter para una aplicacion de celular.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La App esta hecha teniendo en cuenta un codigo ordenado en diferentes archivos y carpetas, para no tener todo en uno solo y se dificulte la lectura del codigo.
